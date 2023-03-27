@@ -1,0 +1,19 @@
+{
+  "name": "npm_sandbox",
+  "version": "1.0.0",
+  "description": "npm and es6",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-downloader-helper": "^2.1.6"
+  },
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
